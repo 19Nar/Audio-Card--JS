@@ -1,0 +1,9 @@
+*{
+    max-width: 500px;
+    background-color: beige;
+    text-align: center;
+    max-height: 500px;
+};
+a{
+    margin-right: 10px;
+}
